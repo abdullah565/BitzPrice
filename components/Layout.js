@@ -7,6 +7,7 @@ const layout = (props) => (
         <Head>
             <meta name="description" content="This is the Bitzprice index page" />
             <title>BitzPrice | Index</title>
+            <meta name="google-site-verification" content="uzW2lKt3EzPwBxEQpRwqPwoJIBXexNg7WAKWGOOi3gA" />
         </Head>
         <Navbar />
         <div className="body-content">
