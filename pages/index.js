@@ -6,8 +6,8 @@ import Prices from '../components/Prices';
 const index = (props) => (
     <Layout>
         <div>
-            <h1>Welcome to BitzPrice!</h1>
-            <p>Check current Bitcoin rate</p>
+            <h1>BitzPrice!</h1>
+            <p>Check current Bitcoin rates</p>
             <Prices bpi={props.bpi} />
         </div>
     </Layout>
